@@ -14,4 +14,4 @@
 
 - The demo below shows how the app looks like, i have styled it this way since its objective is reading list
 - user chooses reading list of books,and its easier to access them.
-<video controls src="record.mp4" title="demo video"></video>
+<video controls src="record.mp4" title="demo video">click here</video>
